@@ -1,3 +1,5 @@
+https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c
+
 Twitter is a social networking platform where —
 
 Users can create and read tweets
