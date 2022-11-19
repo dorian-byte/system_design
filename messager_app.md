@@ -21,4 +21,4 @@ Scaling requirements:
 
 - Total Storage per day : 4 billion messages * 80 bytes = 320 GB/day
 
-- For next 3 years, 320 GB * 3 * 365 = 350 TB
+- For next 3 years, 320 GB * 3 * 365 = 350 T
