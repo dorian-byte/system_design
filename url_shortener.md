@@ -1,3 +1,5 @@
+https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b
+
 Important Features
 Convert Long URL to Tiny URL
 
